@@ -32,5 +32,5 @@ Arduino drives the motors through L293D:
 
 ### 👨‍💻 Author
 **Vinoth S**  
-B.E. Robotics and Automation Engineering (2026)  
+B.E. Robotics and Automation Engineering  
 📫 [LinkedIn](https://linkedin.com/in/vinoth-s) | [Email](selvivinoth353@gmail.com)
